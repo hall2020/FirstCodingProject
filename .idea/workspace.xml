@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4ec853c-bdc4-45ff-9fc9-107a1f400699" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstCodingProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T10Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T1Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T2Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T3Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T4Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T5Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T6Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T7Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T8Project.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TasksForCodingProject/T9Project.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2YuGfdhZL0edfS6PT80r8AiDwyH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/halil/Desktop/FirstCodingProject/src/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.T10Project">
+    <configuration name="T10Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TasksForCodingProject.T10Project" />
+      <module name="FirstCodingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TasksForCodingProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T6Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TasksForCodingProject.T6Project" />
+      <module name="FirstCodingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TasksForCodingProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T7Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TasksForCodingProject.T7Project" />
+      <module name="FirstCodingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TasksForCodingProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T8Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TasksForCodingProject.T8Project" />
+      <module name="FirstCodingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TasksForCodingProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T9Project" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TasksForCodingProject.T9Project" />
+      <module name="FirstCodingProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TasksForCodingProject.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.T10Project" />
+        <item itemvalue="Application.T9Project" />
+        <item itemvalue="Application.T8Project" />
+        <item itemvalue="Application.T7Project" />
+        <item itemvalue="Application.T6Project" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4ec853c-bdc4-45ff-9fc9-107a1f400699" name="Changes" comment="" />
+      <created>1701368158393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701368158393</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TasksForCodingProject/Main.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
